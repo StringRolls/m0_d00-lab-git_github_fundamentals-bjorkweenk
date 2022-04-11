@@ -33,6 +33,7 @@ for (let i = hacker1.length -1; i >=0; i--){
 }
 console.log (reversed)
 
+//alfabet 
 
 if(hacker1>hacker2){
     console.log('The drivers name goes first')}

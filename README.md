@@ -4,7 +4,7 @@
 Hi I am Marco, I want to become an awesome developer.
 I am from Naples Italy and I moved to Barcelona to teach at Ironhack.
 # :wave: The Basics of GitHub 
-
+Hi how are you . 
 ## 🤓 Course overview and learning outcomes 
 
 Marco welcomes all of you guys to the Desarroladores Masquerades
